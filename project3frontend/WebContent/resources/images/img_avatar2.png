@@ -1,0 +1,90 @@
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 19:45:52.311
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 19:47:52.319
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 19:49:52.330
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 19:51:52.344
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 19:53:52.354
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 19:55:52.360
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 19:57:52.372
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 20:10:42.844
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 20:12:42.854
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 20:14:42.865
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCoreRTException: Invalid thread state detected on save.
+	at com.genuitec.eclipse.core.F.C(Unknown Source)
+	at com.genuitec.eclipse.core.F$1.run(Unknown Source)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY com.genuitec.eclipse.core 4 0 2019-01-08 20:16:42.871
+!MESSAGE Unable to store metrics
+!STACK 0
+com.genuitec.eclipse.core.GenuitecCore

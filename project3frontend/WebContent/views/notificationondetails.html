@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+<b>Notification</b><br>
+BlogPost Title <b>{{notification.blogPost}}</b> is {{notification.approvalStatus}}
+<p ng-show="notification.approvalStatus=='Rejected'">for the reason {{notification.rejectReason}}</p>
+
+
+</body>
+</html>
